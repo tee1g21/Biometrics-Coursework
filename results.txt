@@ -1,0 +1,1408 @@
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,11
+Logistic Regression,9
+SVM,7
+Decision Tree,10
+[2025-03-25 05:05:33] | width=50, mode=none, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,11
+Logistic Regression,9
+SVM,7
+Decision Tree,7
+[2025-03-25 05:05:44] | width=50, mode=none, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,10
+Logistic Regression,9
+SVM,7
+Decision Tree,5
+[2025-03-25 05:05:54] | width=50, mode=none, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+[2025-03-25 05:06:04] | width=50, mode=none, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,10
+Logistic Regression,9
+SVM,7
+Decision Tree,7
+[2025-03-25 05:06:14] | width=50, mode=xy, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,12
+Logistic Regression,10
+SVM,7
+Decision Tree,8
+[2025-03-25 05:06:25] | width=50, mode=xy, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,10
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+[2025-03-25 05:06:36] | width=50, mode=xy, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,10
+Logistic Regression,9
+SVM,7
+Decision Tree,11
+[2025-03-25 05:06:46] | width=50, mode=xy, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,12
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+[2025-03-25 05:06:57] | width=50, mode=xyz, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,11
+Logistic Regression,10
+SVM,7
+Decision Tree,9
+[2025-03-25 05:07:07] | width=50, mode=xyz, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,10
+Logistic Regression,9
+SVM,7
+Decision Tree,7
+[2025-03-25 05:07:18] | width=50, mode=xyz, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,14
+Logistic Regression,9
+SVM,7
+Decision Tree,7
+[2025-03-25 05:07:29] | width=50, mode=xyz, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,11
+Logistic Regression,9
+SVM,7
+Decision Tree,10
+[2025-03-25 05:07:40] | width=50, mode=xyv, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,11
+Logistic Regression,9
+SVM,7
+Decision Tree,7
+[2025-03-25 05:07:51] | width=50, mode=xyv, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,10
+Logistic Regression,9
+SVM,7
+Decision Tree,5
+[2025-03-25 05:08:02] | width=50, mode=xyv, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+[2025-03-25 05:08:13] | width=50, mode=xyv, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,10
+Logistic Regression,9
+SVM,9
+Decision Tree,6
+[2025-03-25 05:08:23] | width=50, mode=none, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,11
+Logistic Regression,8
+SVM,9
+Decision Tree,10
+[2025-03-25 05:08:33] | width=50, mode=none, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,8
+Logistic Regression,9
+SVM,9
+Decision Tree,7
+[2025-03-25 05:08:44] | width=50, mode=none, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+[2025-03-25 05:08:54] | width=50, mode=none, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,10
+[2025-03-25 05:09:03] | width=50, mode=xy, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,12
+Logistic Regression,10
+SVM,9
+Decision Tree,11
+[2025-03-25 05:09:13] | width=50, mode=xy, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,9
+Logistic Regression,9
+SVM,9
+Decision Tree,4
+[2025-03-25 05:09:23] | width=50, mode=xy, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,12
+Logistic Regression,10
+SVM,9
+Decision Tree,12
+[2025-03-25 05:09:33] | width=50, mode=xy, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,11
+Logistic Regression,10
+SVM,9
+Decision Tree,9
+[2025-03-25 05:09:43] | width=50, mode=xyz, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,14
+Logistic Regression,10
+SVM,9
+Decision Tree,9
+[2025-03-25 05:09:52] | width=50, mode=xyz, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,12
+Logistic Regression,9
+SVM,9
+Decision Tree,8
+[2025-03-25 05:10:03] | width=50, mode=xyz, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,14
+Logistic Regression,9
+SVM,9
+Decision Tree,12
+[2025-03-25 05:10:12] | width=50, mode=xyz, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,10
+Logistic Regression,9
+SVM,9
+Decision Tree,6
+[2025-03-25 05:10:23] | width=50, mode=xyv, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,11
+Logistic Regression,8
+SVM,9
+Decision Tree,10
+[2025-03-25 05:10:33] | width=50, mode=xyv, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,8
+Logistic Regression,9
+SVM,9
+Decision Tree,7
+[2025-03-25 05:10:43] | width=50, mode=xyv, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+[2025-03-25 05:10:53] | width=50, mode=xyv, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+[2025-03-25 05:11:04] | width=50, mode=none, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,12
+Logistic Regression,9
+SVM,7
+Decision Tree,10
+[2025-03-25 05:11:15] | width=50, mode=none, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,8
+Logistic Regression,9
+SVM,7
+Decision Tree,7
+[2025-03-25 05:11:26] | width=50, mode=none, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,10
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+[2025-03-25 05:11:37] | width=50, mode=none, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,12
+Logistic Regression,9
+SVM,7
+Decision Tree,10
+[2025-03-25 05:11:49] | width=50, mode=xy, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,12
+Logistic Regression,10
+SVM,7
+Decision Tree,11
+[2025-03-25 05:12:00] | width=50, mode=xy, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,10
+Logistic Regression,9
+SVM,7
+Decision Tree,4
+[2025-03-25 05:12:11] | width=50, mode=xy, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,11
+Logistic Regression,9
+SVM,7
+Decision Tree,12
+[2025-03-25 05:12:22] | width=50, mode=xy, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,11
+Logistic Regression,10
+SVM,7
+Decision Tree,9
+[2025-03-25 05:12:33] | width=50, mode=xyz, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,14
+Logistic Regression,10
+SVM,7
+Decision Tree,8
+[2025-03-25 05:12:44] | width=50, mode=xyz, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,8
+[2025-03-25 05:12:56] | width=50, mode=xyz, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,13
+Logistic Regression,9
+SVM,7
+Decision Tree,12
+[2025-03-25 05:13:07] | width=50, mode=xyz, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+[2025-03-25 05:13:18] | width=50, mode=xyv, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,12
+Logistic Regression,9
+SVM,7
+Decision Tree,10
+[2025-03-25 05:13:29] | width=50, mode=xyv, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,8
+Logistic Regression,9
+SVM,7
+Decision Tree,7
+[2025-03-25 05:13:40] | width=50, mode=xyv, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,9
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+k-NN,6
+Random Forest,10
+Logistic Regression,9
+SVM,7
+Decision Tree,6
+[2025-03-25 05:13:51] | width=50, mode=xyv, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,9
+Logistic Regression,9
+SVM,9
+Decision Tree,7
+[2025-03-25 05:14:00] | width=50, mode=none, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,13
+Logistic Regression,8
+SVM,9
+Decision Tree,8
+[2025-03-25 05:14:10] | width=50, mode=none, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,11
+Logistic Regression,9
+SVM,9
+Decision Tree,7
+[2025-03-25 05:14:21] | width=50, mode=none, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+[2025-03-25 05:14:31] | width=50, mode=none, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,7
+[2025-03-25 05:14:41] | width=50, mode=xy, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,9
+Logistic Regression,10
+SVM,9
+Decision Tree,6
+[2025-03-25 05:14:52] | width=50, mode=xy, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,12
+Logistic Regression,9
+SVM,9
+Decision Tree,9
+[2025-03-25 05:15:02] | width=50, mode=xy, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,8
+Logistic Regression,10
+SVM,9
+Decision Tree,9
+[2025-03-25 05:15:12] | width=50, mode=xy, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,12
+Logistic Regression,10
+SVM,9
+Decision Tree,9
+[2025-03-25 05:15:22] | width=50, mode=xyz, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,14
+Logistic Regression,10
+SVM,9
+Decision Tree,7
+[2025-03-25 05:15:33] | width=50, mode=xyz, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,13
+Logistic Regression,10
+SVM,9
+Decision Tree,7
+[2025-03-25 05:15:43] | width=50, mode=xyz, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,12
+Logistic Regression,10
+SVM,9
+Decision Tree,10
+[2025-03-25 05:15:53] | width=50, mode=xyz, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,9
+Logistic Regression,9
+SVM,9
+Decision Tree,7
+[2025-03-25 05:16:04] | width=50, mode=xyv, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,13
+Logistic Regression,8
+SVM,9
+Decision Tree,8
+[2025-03-25 05:16:14] | width=50, mode=xyv, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,11
+Logistic Regression,9
+SVM,9
+Decision Tree,7
+[2025-03-25 05:16:24] | width=50, mode=xyv, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+k-NN,13
+Random Forest,10
+Logistic Regression,10
+SVM,9
+Decision Tree,8
+[2025-03-25 05:16:34] | width=50, mode=xyv, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': True, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,9
+[2025-03-25 05:16:46] | width=50, mode=none, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,10
+Logistic Regression,11
+SVM,7
+Decision Tree,10
+[2025-03-25 05:16:57] | width=50, mode=none, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,13
+Logistic Regression,10
+SVM,7
+Decision Tree,6
+[2025-03-25 05:17:09] | width=50, mode=none, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,12
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+[2025-03-25 05:17:20] | width=50, mode=none, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,8
+Logistic Regression,12
+SVM,7
+Decision Tree,6
+[2025-03-25 05:17:32] | width=50, mode=xy, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,11
+Logistic Regression,12
+SVM,7
+Decision Tree,8
+[2025-03-25 05:17:43] | width=50, mode=xy, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,11
+Logistic Regression,10
+SVM,7
+Decision Tree,11
+[2025-03-25 05:17:55] | width=50, mode=xy, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,9
+Logistic Regression,11
+SVM,7
+Decision Tree,9
+[2025-03-25 05:18:06] | width=50, mode=xy, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,10
+Logistic Regression,12
+SVM,7
+Decision Tree,9
+[2025-03-25 05:18:18] | width=50, mode=xyz, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,10
+Logistic Regression,12
+SVM,7
+Decision Tree,10
+[2025-03-25 05:18:29] | width=50, mode=xyz, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,12
+Logistic Regression,10
+SVM,7
+Decision Tree,9
+[2025-03-25 05:18:41] | width=50, mode=xyz, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,10
+Logistic Regression,10
+SVM,7
+Decision Tree,8
+[2025-03-25 05:18:53] | width=50, mode=xyz, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,9
+Logistic Regression,10
+SVM,7
+Decision Tree,9
+[2025-03-25 05:19:04] | width=50, mode=xyv, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,10
+Logistic Regression,11
+SVM,7
+Decision Tree,10
+[2025-03-25 05:19:16] | width=50, mode=xyv, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,13
+Logistic Regression,10
+SVM,7
+Decision Tree,6
+[2025-03-25 05:19:27] | width=50, mode=xyv, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,12
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+[2025-03-25 05:19:39] | width=50, mode=xyv, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,12
+Logistic Regression,11
+SVM,9
+Decision Tree,7
+[2025-03-25 05:19:49] | width=50, mode=none, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,11
+Logistic Regression,12
+SVM,9
+Decision Tree,9
+[2025-03-25 05:19:59] | width=50, mode=none, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,11
+Logistic Regression,10
+SVM,9
+Decision Tree,7
+[2025-03-25 05:20:09] | width=50, mode=none, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+[2025-03-25 05:20:19] | width=50, mode=none, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,12
+Logistic Regression,12
+SVM,9
+Decision Tree,8
+[2025-03-25 05:20:29] | width=50, mode=xy, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,8
+Logistic Regression,13
+SVM,9
+Decision Tree,11
+[2025-03-25 05:20:40] | width=50, mode=xy, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,14
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+[2025-03-25 05:20:50] | width=50, mode=xy, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,8
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+[2025-03-25 05:21:00] | width=50, mode=xy, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,12
+Logistic Regression,12
+SVM,9
+Decision Tree,6
+[2025-03-25 05:21:10] | width=50, mode=xyz, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,13
+Logistic Regression,12
+SVM,9
+Decision Tree,9
+[2025-03-25 05:21:21] | width=50, mode=xyz, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,12
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+[2025-03-25 05:21:31] | width=50, mode=xyz, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,9
+[2025-03-25 05:21:40] | width=50, mode=xyz, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,12
+Logistic Regression,11
+SVM,9
+Decision Tree,7
+[2025-03-25 05:21:50] | width=50, mode=xyv, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,11
+Logistic Regression,12
+SVM,9
+Decision Tree,9
+[2025-03-25 05:22:00] | width=50, mode=xyv, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,11
+Logistic Regression,10
+SVM,9
+Decision Tree,7
+[2025-03-25 05:22:10] | width=50, mode=xyv, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,10
+[2025-03-25 05:22:20] | width=50, mode=xyv, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': True, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,10
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+[2025-03-25 05:22:32] | width=50, mode=none, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,9
+Logistic Regression,12
+SVM,7
+Decision Tree,9
+[2025-03-25 05:22:44] | width=50, mode=none, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,7
+[2025-03-25 05:22:56] | width=50, mode=none, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+[2025-03-25 05:23:08] | width=50, mode=none, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,9
+Logistic Regression,12
+SVM,7
+Decision Tree,8
+[2025-03-25 05:23:20] | width=50, mode=xy, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,9
+Logistic Regression,13
+SVM,7
+Decision Tree,9
+[2025-03-25 05:23:32] | width=50, mode=xy, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,13
+Logistic Regression,10
+SVM,7
+Decision Tree,10
+[2025-03-25 05:23:44] | width=50, mode=xy, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,8
+Logistic Regression,11
+SVM,7
+Decision Tree,11
+[2025-03-25 05:23:56] | width=50, mode=xy, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,12
+Logistic Regression,12
+SVM,7
+Decision Tree,6
+[2025-03-25 05:24:08] | width=50, mode=xyz, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,14
+Logistic Regression,12
+SVM,7
+Decision Tree,9
+[2025-03-25 05:24:20] | width=50, mode=xyz, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,12
+Logistic Regression,10
+SVM,7
+Decision Tree,10
+[2025-03-25 05:24:31] | width=50, mode=xyz, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,11
+Logistic Regression,10
+SVM,7
+Decision Tree,9
+[2025-03-25 05:24:44] | width=50, mode=xyz, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,10
+Logistic Regression,10
+SVM,7
+Decision Tree,7
+[2025-03-25 05:24:56] | width=50, mode=xyv, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,9
+Logistic Regression,12
+SVM,7
+Decision Tree,9
+[2025-03-25 05:25:08] | width=50, mode=xyv, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,7
+[2025-03-25 05:25:19] | width=50, mode=xyv, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+k-NN,6
+Random Forest,11
+Logistic Regression,11
+SVM,7
+Decision Tree,8
+[2025-03-25 05:25:31] | width=50, mode=xyv, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': True}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,12
+Logistic Regression,11
+SVM,9
+Decision Tree,9
+[2025-03-25 05:25:41] | width=50, mode=none, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,11
+Logistic Regression,12
+SVM,9
+Decision Tree,10
+[2025-03-25 05:25:52] | width=50, mode=none, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,11
+Logistic Regression,10
+SVM,9
+Decision Tree,9
+[2025-03-25 05:26:02] | width=50, mode=none, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+[2025-03-25 05:26:13] | width=50, mode=none, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'none', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,14
+Logistic Regression,13
+SVM,9
+Decision Tree,12
+[2025-03-25 05:26:23] | width=50, mode=xy, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,9
+Logistic Regression,14
+SVM,9
+Decision Tree,6
+[2025-03-25 05:26:34] | width=50, mode=xy, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,7
+[2025-03-25 05:26:44] | width=50, mode=xy, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,8
+Logistic Regression,12
+SVM,9
+Decision Tree,11
+[2025-03-25 05:26:55] | width=50, mode=xy, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xy', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,12
+Logistic Regression,12
+SVM,9
+Decision Tree,9
+[2025-03-25 05:27:05] | width=50, mode=xyz, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,12
+Logistic Regression,12
+SVM,9
+Decision Tree,7
+[2025-03-25 05:27:16] | width=50, mode=xyz, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,10
+Logistic Regression,11
+SVM,9
+Decision Tree,9
+[2025-03-25 05:27:26] | width=50, mode=xyz, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,12
+Logistic Regression,12
+SVM,9
+Decision Tree,8
+[2025-03-25 05:27:37] | width=50, mode=xyz, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyz', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,12
+Logistic Regression,11
+SVM,9
+Decision Tree,9
+[2025-03-25 05:27:47] | width=50, mode=xyv, vis=True, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,11
+Logistic Regression,12
+SVM,9
+Decision Tree,10
+[2025-03-25 05:27:58] | width=50, mode=xyv, vis=True, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': True, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,11
+Logistic Regression,10
+SVM,9
+Decision Tree,9
+[2025-03-25 05:28:08] | width=50, mode=xyv, vis=False, ratio=True, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': True, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+k-NN,13
+Random Forest,11
+Logistic Regression,11
+SVM,9
+Decision Tree,11
+[2025-03-25 05:28:19] | width=50, mode=xyv, vis=False, ratio=False, swargs={'use_width': True, 'num_width_samples': 50, 'use_efd': False, 'use_aspect': False, 'use_skeleton_length': False}, pwargs={'mode': 'xyv', 'use_visibility': False, 'use_ratios': False, 'use_foot_to_lower_leg': True, 'use_lower_to_upper_leg': True, 'use_leg_to_arm': True, 'use_upper_arm_to_leg': True, 'use_shoulder_to_hip_width': True, 'use_shoulder_to_upper_leg': True, 'use_head_to_torso': True}
